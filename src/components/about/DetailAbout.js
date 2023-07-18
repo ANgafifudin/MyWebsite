@@ -46,6 +46,14 @@ const DetailAbout = () => {
                         </Link>
                       </span>
                     </div>
+                    <div>
+                      this.<span className="text-accent-100">CV</span> ={" "}
+                      <span className="text-primary-200 hover:underline hover:underline-offset-4">
+                        <Link href="https://drive.google.com/file/d/12SFp61JDQV1SpH5fOswmbdkLjFkTrSEK/view?usp=sharing" passHref target="_blank">
+                          Click Here
+                        </Link>
+                      </span>
+                    </div>
                   </div>
                   <div className="md:text-xl font-bold text-primary-100 pl-5">
                     &#125;
