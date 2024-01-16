@@ -49,7 +49,7 @@ const DetailAbout = () => {
                     <div>
                       this.<span className="text-accent-100">CV</span> ={" "}
                       <span className="text-primary-200 hover:underline hover:underline-offset-4">
-                        <Link href="https://drive.google.com/file/d/12SFp61JDQV1SpH5fOswmbdkLjFkTrSEK/view?usp=sharing" passHref target="_blank">
+                        <Link href="https://drive.google.com/file/d/1Q3SEDSGDcvLY8IG8xU-EvqsJOYSniH71/view?usp=sharing" passHref target="_blank">
                           Click Here
                         </Link>
                       </span>

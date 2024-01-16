@@ -50,7 +50,7 @@ const ImportProjectPersonal = () => {
               linkWebsite="https://pokedex-aji.vercel.app/"
             />
             <DetailPortfolio
-            classWebsite="FlyWise"
+            classWebsite="flyWise"
               nameWebsite="FlyWise"
               descriptionWebsite="FlyWise is a website used to book airline tickets"
               typeWebsite="Team"
